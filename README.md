@@ -8,6 +8,7 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
