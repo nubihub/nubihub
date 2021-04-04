@@ -11,7 +11,7 @@
 ![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-323300?style=flat&logo=rust&logoColor=white)
 
 <!---
 nubihub/nubihub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
